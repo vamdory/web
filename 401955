@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="zh_CN">
+  <head>
+	<meta chraset="uft-8">
+	  <meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>课程学习记录</title>
+  </head>
+  <body>
+	<div>
+	<h1 style="text-align:center;">基础HTML和HTML5</h1>
+	  <h1>上面正文下面代码</h1>
+	  <hr>
+		<!--向HTML元素问好-->
+	  <h1>Hello World</h1>
+	  <!--用h2元素代表副标题-->
+	  <h2>Cat PhotoApp</h2>
+	  <!--用p标签定义段落-->
+		<!---->
+	</div>
+  </body>
+</html>
