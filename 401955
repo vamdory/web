@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh_CN">
+  <head>
+	<meta chraset="uft-8">
+	  <meta name="viewport" content="width=device-width,initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="css/exnav_mp.css">
+		  <link rel="stylesheet" type="text/css" href="css/cnmb-pc/pc.css">
+	<title>逍遥道首页</title>
+  </head>
+  <body>
+	<!-- 手机MP端 -->
+	  <div id="mp">
+	  <div id="exnav-top"><!--导航条置顶首页-->
+		<img src="img/cnm.sb.svg" alt="logo"><!--logo-->
+		<h2>逍遥道</h2>
+	  </div>
+		<div class="topimg"><!--导航条下方图片-->
+		  <img src="img/start.jpg" alt="dingtu">
+		</div>
+		<div id="content"><!--内容设置-->
+		  <div>
+			<div>
+			<img src="font/cnmsb01.png" alt="shouye">
+			</div>
+			<h4>官网首页</h4>
+			<p>当前网站只适合移动端访问。</p>
+		  </div>
+		  <div>
+			<div>
+			  <img src="font/cnmsb02.png" alt="guanyubenzhan">
+			</div>
+			<h4>关于本站</h4>
+			<p>关于本站道主的学习笔记经历和爱好。</p>
+		  </div>
+		  <div>
+			<div>
+			  <img src="font/cnmsb03.png" alt="站长团队">
+			</div>
+			<h4>逍遥道主</h4>
+			<p>逍遥道主是有关于道主社交信息。</p>
+		  </div>
+		  <div>
+			<div>
+			  <img src="font/cnmsb04.png" alt="shnagyehezuo">
+			</div>
+			<h4>商业合作</h4>
+			<p>暂无商业合作项目</p>
+		  </div>
+		  <div>
+			<div>
+			  <img src="font/cnmsb05.png" alt="zhandianzhanshi">
+			</div>
+			<h4>站点展示</h4>
+			<p>这里以后将放至其他网页或源码。</p>
+		  </div>
+		</div>
+	<ul id="daohang">
+	  <li><img src="font/cnmsb01.png">
+		<p>首页</p>
+	  </li>
+	  <li><img src="font/cnmsb02.png">
+		<p>关于本站</p>
+	  </li>
+	  <li><img src="font/cnmsb03.png">
+		<p>逍遥道主</p>
+	  </li>
+	  <li><img src="font/cnmsb04.png">
+		<p>商业合作</p>
+	  </li>
+	  <li><img src="font/cnmsb05.png">
+		<p>站点展示</p>
+	  </li>
+	</ul>
+	  </div>
+  </body>
+</html>
